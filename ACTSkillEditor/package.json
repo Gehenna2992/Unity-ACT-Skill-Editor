@@ -1,0 +1,7 @@
+{
+  "name": "com.yourname.actskilleditor",
+  "version": "1.0.0",
+  "displayName": "ACT Skill Editor",
+  "description": "A Data-Driven Action Game Skill Editor for Unity.",
+  "unity": "2022.3"
+}
