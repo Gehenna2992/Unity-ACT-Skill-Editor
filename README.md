@@ -22,6 +22,7 @@
 1. 顶部菜单栏点击 `工具 -> 技能编辑器`。
 2. 在 Project 窗口右键 `Create -> Combat -> Skill Config` 创建一个剧本。
 3. 具体配置及演示见https://www.bilibili.com/video/BV1ncPwzNEQW
+4. 里面附有拿ai生成的角色Test脚本，还并未完善，仅供演示
 
 ## 🤝 参与贡献
 欢迎提交 Pull Request 或 Issue！如果你觉得这个工具帮到了你，请给我一个 ⭐ Star！
