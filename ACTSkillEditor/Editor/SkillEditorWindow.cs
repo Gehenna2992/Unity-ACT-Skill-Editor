@@ -407,7 +407,7 @@ public class SkillEditorWindow : EditorWindow
 
         // 3.1 预览模型 (Idle)
         EditorGUI.BeginChangeCheck();
-        previewModel = EditorGUILayout.ObjectField("场景预览模型", previewModel, typeof(GameObject), false) as GameObject;
+        previewModel = EditorGUILayout.ObjectField("场景预览模型", previewModel, typeof(GameObject), true) as GameObject;
         if (EditorGUI.EndChangeCheck() && previewModel != null)
         {
             previewAnim = previewModel.GetComponent<Animator>();
